@@ -1,0 +1,46 @@
+
+#header-nav {
+
+background-color: gray ;
+border-radius: 0;
+border: 0;
+
+}
+
+.navbar-default .navbar-brand {
+
+	color: #ffffff;
+}
+
+#ourmenu {
+ 
+font-size: 25px;
+font-family: comicsans;
+
+}
+
+.collapsable-nav {
+background-color: white;
+border: black;
+color: white;
+
+}
+
+.maincontent  {
+
+height: 1000px;
+/*width: 500px;*/
+background-color: dimgray;
+padding: 10px;
+
+}
+
+h3 {
+
+	color: white;
+}
+
+a {
+
+	color: white;
+}
